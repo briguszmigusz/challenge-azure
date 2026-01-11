@@ -82,7 +82,6 @@ The Azure SQL database is connected to **Power BI**, enabling:
 - [✅] Screenshot of Function App test run
 ![testrun](images/testrun.png)
 - [✅] Screenshot of SQL data table
-<br>
 ![sqldatabase](images/sqldatatable.png)
 - [✅] If applicable, link to Power BI dashboard
 - [❌] (Optional) CI/CD pipeline config and diagram
